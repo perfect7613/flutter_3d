@@ -9,12 +9,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_3d_controller: ^2.0.2
   flutter_dotenv: ^5.2.1
   http: ^1.2.2
   image_picker: ^1.1.2
   path_provider: ^2.1.5
   uploadcare_client: ^7.0.0
+  model_viewer_plus: ^1.8.0
 
 dev_dependencies:
   flutter_test:
